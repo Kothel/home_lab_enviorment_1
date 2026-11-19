@@ -4,7 +4,8 @@
 
 ## 1.Plan the Architecture of the Computer
 ###       1.Plan the internal Architecture of the server
-####         <img width="592" height="542" alt="Home lab Diagram" src="https://github.com/user-attachments/assets/7805fea8-4030-4005-85f1-1570f8570edb" />
+####         <img width="592" height="542" alt="Better lab plan" src="https://github.com/user-attachments/assets/bb291bcb-6c3a-4afa-b0d8-e89415976303" />
+
 
 
 ## 2.Install and setup the Server
