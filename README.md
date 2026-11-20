@@ -4,10 +4,10 @@
 
 ## 1.Plan the Architecture of the Computer
 ###   &nbsp;&nbsp;&nbsp;    1.Plan the internal Architecture of the server
-####   <img width="592" height="542" alt="Better lab plan" src="https://github.com/user-attachments/assets/bb291bcb-6c3a-4afa-b0d8-e89415976303" />
-###       2.Aquire harware and install extra drive
-####    <img width="4000" height="2250" alt="20261019_195258" src="https://github.com/user-attachments/assets/973c228c-8322-462e-92b0-c0e036fa389d" />
-###       3
+####  &nbsp;&nbsp;&nbsp; <img width="592" height="542" alt="Better lab plan" src="https://github.com/user-attachments/assets/bb291bcb-6c3a-4afa-b0d8-e89415976303" />
+###   &nbsp;&nbsp;&nbsp;   2.Aquire harware and install extra drive
+####  &nbsp;&nbsp;&nbsp; <img width="4000" height="2250" alt="20261019_195258" src="https://github.com/user-attachments/assets/973c228c-8322-462e-92b0-c0e036fa389d" />
+###   &nbsp;&nbsp;&nbsp;   3
 
 
 
