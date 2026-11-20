@@ -68,11 +68,38 @@
 #### <img width="1485" height="804" alt="docker password configure" src="https://github.com/user-attachments/assets/687ca393-1a8c-48e6-9247-221ea9ff846f" />
 ###       3. confirm status of docker container
 #### <img width="1000" height="154" alt="Docker-apps" src="https://github.com/user-attachments/assets/c5b55edf-c062-4465-ac07-4e8deb1d0dd2" />
-###        4. Create Compe and yamle file
+###        4. Create Compe.yamle file
+#### file created is listed in git
 
 
 
 
 ### A. 
-## 4.Set Up next Cloud Software
+## 4.Set Up Tailscale
+#### 1. install tailscale
+<img width="1150" height="422" alt="tailscale intall" src="https://github.com/user-attachments/assets/64e04cc2-44d9-4967-ad75-60ba5616cee3" />
+#### 2. install taiscale on mobile device and add ip to compose 
+<img width="523" height="394" alt="tailscale port" src="https://github.com/user-attachments/assets/017e0c11-db46-4868-87a8-e87e2b4a9138" />
+#### 4. replace private ip with tailscale IP
+## 5. Set up nextcloud
+### 1.open nextcloud in a seperate device
+<img width="720" height="1600" alt="noip" src="https://github.com/user-attachments/assets/19c73e89-260e-412b-a525-17b69702ad7a" />
+### 2use the admin account that was newly created
+<img width="1592" height="783" alt="nextcloud account" src="https://github.com/user-attachments/assets/dda69770-eb76-49b6-a534-a10386436636" />
+### 3create accounts for family
+<img width="259" height="293" alt="image" src="https://github.com/user-attachments/assets/affd9efe-2026-4594-8d6d-8ff1d5260666" />
+## 6. add Google SSO functionality
+### 1. install openID Connect APP in nextcloud GUI
+<img width="1541" height="153" alt="image" src="https://github.com/user-attachments/assets/51422026-1311-4516-be93-d365d7913b7f" />
+### 2. enable Https on tailscale and use Magic DNS name from tailsacle for server IP
+### <img width="1224" height="358" alt="https troubleshoot" src="https://github.com/user-attachments/assets/f05acb10-6fa8-41a8-9a8a-7f14d242e0f6" />
+### 3. opened google OAuthen
+created google cloud project
+opened google auth Program
+created clients
+added google client secrete to openID connect app in nextcloud
+
+## 7 connect google SSO
+
+
 
