@@ -99,7 +99,12 @@ opened google auth Program
 created clients
 added google client secrete to openID connect app in nextcloud
 
-## 7 connect google SSO
+## 3 Problem 3
+### https does not want to connect
+<img width="1161" height="219" alt="googleSSO" src="https://github.com/user-attachments/assets/3120b830-6aa7-426b-82d6-aefd31d76959" />
+
+<img width="1224" height="358" alt="https troubleshoot" src="https://github.com/user-attachments/assets/51c3fbd1-2950-4324-83c4-13beebc2aede" />
+
 
 
 
