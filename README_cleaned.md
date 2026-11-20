@@ -199,3 +199,5 @@ The following screenshots document the issue and troubleshooting process.
 ![Google SSO connection issue](https://github.com/user-attachments/assets/3120b830-6aa7-426b-82d6-aefd31d76959)
 
 ![HTTPS troubleshooting details](https://github.com/user-attachments/assets/51c3fbd1-2950-4324-83c4-13beebc2aede)
+### 9.0 Finished product
+<img width="1911" height="921" alt="image" src="https://github.com/user-attachments/assets/8494e778-5c93-4a4d-b85a-2eebc19986f9" />
